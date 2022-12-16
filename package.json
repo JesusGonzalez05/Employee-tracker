@@ -1,0 +1,22 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Employee tracking system",
+  "main": "server.js",
+  "scripts": {
+    "test": "server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusGonzalez05/Employee-tracker.git"
+  },
+  "author": "Jesus Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusGonzalez05/Employee-tracker/issues"
+  },
+  "homepage": "https://github.com/JesusGonzalez05/Employee-tracker#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
